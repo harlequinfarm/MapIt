@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "patient-react-app-dev-20190623114232-authRole",
+            "UnauthRoleArn": "arn:aws:iam::474797062855:role/patient-react-app-dev-20190623114232-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::474797062855:role/patient-react-app-dev-20190623114232-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "patient-react-app-dev-20190623114232-deployment",
+            "UnauthRoleName": "patient-react-app-dev-20190623114232-unauthRole",
+            "StackName": "patient-react-app-dev-20190623114232",
+            "StackId": "arn:aws:cloudformation:us-east-2:474797062855:stack/patient-react-app-dev-20190623114232/84688f30-95cd-11e9-81ad-0a768148c3d2"
+        }
+    }
+}
